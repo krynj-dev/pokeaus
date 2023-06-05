@@ -39,3 +39,7 @@ prefabs.json
 *.diff
 *.sym
 *.js
+
+tools/poryscript
+tools/porymap
+convert_inc.sh
